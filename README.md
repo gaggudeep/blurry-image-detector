@@ -1,1 +1,1 @@
-# blurry-image-detector
+# Blurry Image Detector
